@@ -1,0 +1,1110 @@
+23-03-2025 12:05:15:515 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 12:06:08:68 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 12:10:02:102 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 12:35:17:3517 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:14:37:1437 template [31merror[39m: [31mCan't get items by id[39m
+23-03-2025 13:14:37:1437 template [32mhttp[39m: [32mFile ./src/items.json not found[39m
+23-03-2025 13:14:37:1437 template [32mhttp[39m: [32mGET /api/template/items 400 103 - 2.480 ms[39m
+[32m[39m
+23-03-2025 13:14:37:1437 template [31merror[39m: [31mCan't get items by id[39m
+23-03-2025 13:14:37:1437 template [32mhttp[39m: [32mFile ./src/items.json not found[39m
+23-03-2025 13:14:37:1437 template [32mhttp[39m: [32mGET /api/template/items 400 103 - 1.220 ms[39m
+[32m[39m
+23-03-2025 13:15:17:1517 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:15:22:1522 template [31merror[39m: [31mCan't get all items[39m
+23-03-2025 13:15:22:1522 template [32mhttp[39m: [32mFile ./src/items.json not found[39m
+23-03-2025 13:15:22:1522 template [32mhttp[39m: [32mGET /api/template/items 400 103 - 5.019 ms[39m
+[32m[39m
+23-03-2025 13:15:22:1522 template [31merror[39m: [31mCan't get all items[39m
+23-03-2025 13:15:22:1522 template [32mhttp[39m: [32mFile ./src/items.json not found[39m
+23-03-2025 13:15:22:1522 template [32mhttp[39m: [32mGET /api/template/items 400 103 - 1.049 ms[39m
+[32m[39m
+23-03-2025 13:17:49:1749 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:17:53:1753 template [31merror[39m: [31mCan't get all items[39m
+23-03-2025 13:17:53:1753 template [32mhttp[39m: [32mFile ./src/items.json not found[39m
+23-03-2025 13:17:53:1753 template [32mhttp[39m: [32mGET /api/template/items 400 103 - 2.342 ms[39m
+[32m[39m
+23-03-2025 13:17:53:1753 template [31merror[39m: [31mCan't get all items[39m
+23-03-2025 13:17:53:1753 template [32mhttp[39m: [32mFile ./src/items.json not found[39m
+23-03-2025 13:17:53:1753 template [32mhttp[39m: [32mGET /api/template/items 400 103 - 2.052 ms[39m
+[32m[39m
+23-03-2025 13:19:42:1942 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:19:51:1951 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:19:51:1951 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:19:51:1951 template [32mhttp[39m: [32mGET /api/template/items 200 72 - 6.592 ms[39m
+[32m[39m
+23-03-2025 13:19:51:1951 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:19:51:1951 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:19:51:1951 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.988 ms[39m
+[32m[39m
+23-03-2025 13:21:05:215 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:21:05:215 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:21:05:215 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.088 ms[39m
+[32m[39m
+23-03-2025 13:21:06:216 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:21:06:216 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:21:06:216 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.570 ms[39m
+[32m[39m
+23-03-2025 13:21:56:2156 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:22:01:221 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:22:01:221 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:22:01:221 template [32mhttp[39m: [32mGET /api/template/items 200 63 - 2.657 ms[39m
+[32m[39m
+23-03-2025 13:22:01:221 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:22:01:221 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:22:01:221 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.746 ms[39m
+[32m[39m
+23-03-2025 13:22:15:2215 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:22:15:2215 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:22:15:2215 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.701 ms[39m
+[32m[39m
+23-03-2025 13:22:15:2215 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:22:15:2215 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:22:15:2215 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.161 ms[39m
+[32m[39m
+23-03-2025 13:23:00:230 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:23:00:230 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:23:00:230 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.315 ms[39m
+[32m[39m
+23-03-2025 13:23:00:230 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:23:00:230 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:23:00:230 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.693 ms[39m
+[32m[39m
+23-03-2025 13:23:14:2314 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 0.449 ms[39m
+[32m[39m
+23-03-2025 13:23:25:2325 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:23:25:2325 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:23:25:2325 template [32mhttp[39m: [32mGET /api/template/items 200 75 - 0.649 ms[39m
+[32m[39m
+23-03-2025 13:23:25:2325 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:23:25:2325 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:23:25:2325 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.625 ms[39m
+[32m[39m
+23-03-2025 13:23:52:2352 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:23:52:2352 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:23:52:2352 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.037 ms[39m
+[32m[39m
+23-03-2025 13:23:52:2352 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:23:52:2352 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:23:52:2352 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.452 ms[39m
+[32m[39m
+23-03-2025 13:28:11:2811 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:28:40:2840 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:28:40:2840 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:28:40:2840 template [32mhttp[39m: [32mGET /api/template/items 200 63 - 2.060 ms[39m
+[32m[39m
+23-03-2025 13:28:40:2840 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:28:40:2840 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:28:40:2840 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.830 ms[39m
+[32m[39m
+23-03-2025 13:28:49:2849 template [32minfo[39m: [32mitems: {"name":"ssss"}[39m
+23-03-2025 13:28:49:2849 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 0.761 ms[39m
+[32m[39m
+23-03-2025 13:30:07:307 template [32minfo[39m: [32mitems: {"name":"ddd"}[39m
+23-03-2025 13:30:07:307 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 0.959 ms[39m
+[32m[39m
+23-03-2025 13:31:44:3144 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:34:40:3440 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:34:45:3445 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:34:45:3445 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:34:45:3445 template [32mhttp[39m: [32mGET /api/template/items 200 63 - 3.326 ms[39m
+[32m[39m
+23-03-2025 13:34:45:3445 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:34:45:3445 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:34:45:3445 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.518 ms[39m
+[32m[39m
+23-03-2025 13:34:51:3451 template [32minfo[39m: [32mitem: [object Object][39m
+23-03-2025 13:34:51:3451 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 0.981 ms[39m
+[32m[39m
+23-03-2025 13:36:03:363 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:36:18:3618 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:36:18:3618 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:36:18:3618 template [32mhttp[39m: [32mGET /api/template/items 200 63 - 2.751 ms[39m
+[32m[39m
+23-03-2025 13:36:18:3618 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:36:18:3618 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:36:18:3618 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.760 ms[39m
+[32m[39m
+23-03-2025 13:36:24:3624 template [32minfo[39m: [32mitem: asas[39m
+23-03-2025 13:36:24:3624 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 0.804 ms[39m
+[32m[39m
+23-03-2025 13:37:07:377 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:37:08:378 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:37:08:378 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:37:08:378 template [32mhttp[39m: [32mGET /api/template/items 200 63 - 2.085 ms[39m
+[32m[39m
+23-03-2025 13:37:08:378 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:37:08:378 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:37:08:378 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.775 ms[39m
+[32m[39m
+23-03-2025 13:37:12:3712 template [32minfo[39m: [32mitem: sss[39m
+23-03-2025 13:37:12:3712 template [32minfo[39m: [32mallItems: [][39m
+23-03-2025 13:37:12:3712 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 1.104 ms[39m
+[32m[39m
+23-03-2025 13:38:42:3842 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 13:38:45:3845 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:38:45:3845 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:38:45:3845 template [32mhttp[39m: [32mGET /api/template/items 200 63 - 3.078 ms[39m
+[32m[39m
+23-03-2025 13:38:45:3845 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:38:45:3845 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:38:45:3845 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.917 ms[39m
+[32m[39m
+23-03-2025 13:38:48:3848 template [32minfo[39m: [32mitem: ssss[39m
+23-03-2025 13:38:48:3848 template [32minfo[39m: [32mallItems: [][39m
+23-03-2025 13:38:48:3848 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 1.041 ms[39m
+[32m[39m
+23-03-2025 13:38:56:3856 template [32minfo[39m: [32mitem: aaa[39m
+23-03-2025 13:38:56:3856 template [32minfo[39m: [32mallItems: [[39m
+[32m  "ssss"[39m
+[32m][39m
+23-03-2025 13:38:56:3856 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 2.387 ms[39m
+[32m[39m
+23-03-2025 13:39:04:394 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:39:04:394 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:39:04:394 template [32mhttp[39m: [32mGET /api/template/items 200 75 - 0.604 ms[39m
+[32m[39m
+23-03-2025 13:39:04:394 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:39:04:394 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:39:04:394 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.579 ms[39m
+[32m[39m
+23-03-2025 13:41:56:4156 template [32minfo[39m: [32mitem: asasas[39m
+23-03-2025 13:41:56:4156 template [32minfo[39m: [32mallItems: [[39m
+[32m  "ssss",[39m
+[32m  "aaa"[39m
+[32m][39m
+23-03-2025 13:41:56:4156 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 2.570 ms[39m
+[32m[39m
+23-03-2025 13:41:59:4159 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:41:59:4159 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:41:59:4159 template [32mhttp[39m: [32mGET /api/template/items 200 84 - 0.623 ms[39m
+[32m[39m
+23-03-2025 13:41:59:4159 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 13:41:59:4159 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 13:41:59:4159 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.597 ms[39m
+[32m[39m
+23-03-2025 13:54:08:548 template [32minfo[39m: [32mitem: dadas[39m
+23-03-2025 13:54:08:548 template [32minfo[39m: [32mallItems: [[39m
+[32m  "ssss",[39m
+[32m  "aaa",[39m
+[32m  "asasas"[39m
+[32m][39m
+23-03-2025 13:54:08:548 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.598 ms[39m
+[32m[39m
+23-03-2025 14:04:52:452 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 14:04:52:452 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 14:04:52:452 template [32mhttp[39m: [32mGET /api/template/items 200 92 - 3.126 ms[39m
+[32m[39m
+23-03-2025 14:04:52:452 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 14:04:52:452 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 14:04:52:452 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.446 ms[39m
+[32m[39m
+23-03-2025 14:04:53:453 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 14:04:53:453 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 14:04:53:453 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.073 ms[39m
+[32m[39m
+23-03-2025 14:04:53:453 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 14:04:53:453 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 14:04:53:453 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.046 ms[39m
+[32m[39m
+23-03-2025 14:06:11:611 template [32minfo[39m: [32mitem: דדדד[39m
+23-03-2025 14:06:11:611 template [32minfo[39m: [32mallItems: [[39m
+[32m  "ssss",[39m
+[32m  "aaa",[39m
+[32m  "asasas",[39m
+[32m  "dadas"[39m
+[32m][39m
+23-03-2025 14:06:11:611 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 2.339 ms[39m
+[32m[39m
+23-03-2025 14:07:59:759 template [32minfo[39m: [32mitem: dfgfdg fsdf[39m
+23-03-2025 14:07:59:759 template [32minfo[39m: [32mallItems: [[39m
+[32m  "ssss",[39m
+[32m  "aaa",[39m
+[32m  "asasas",[39m
+[32m  "dadas",[39m
+[32m  "דדדד"[39m
+[32m][39m
+23-03-2025 14:07:59:759 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 1.539 ms[39m
+[32m[39m
+23-03-2025 14:08:01:81 template [32minfo[39m: [32mitem: fsdfds [39m
+23-03-2025 14:08:01:81 template [32minfo[39m: [32mallItems: [[39m
+[32m  "ssss",[39m
+[32m  "aaa",[39m
+[32m  "asasas",[39m
+[32m  "dadas",[39m
+[32m  "דדדד",[39m
+[32m  "dfgfdg fsdf"[39m
+[32m][39m
+23-03-2025 14:08:01:81 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 2.287 ms[39m
+[32m[39m
+23-03-2025 14:59:27:5927 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 14:59:33:5933 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 14:59:43:5943 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:00:43:043 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:04:15:415 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:04:17:417 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:05:04:54 template [32minfo[39m: [32mDeleting item: ssss[39m
+23-03-2025 15:05:04:54 template [32minfo[39m: [32mDeleted item: ssss[39m
+23-03-2025 15:05:04:54 template [32mhttp[39m: [32mDELETE /api/template/items/ssss 200 55 - 6.411 ms[39m
+[32m[39m
+23-03-2025 15:05:04:54 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:05:04:54 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:05:04:54 template [32mhttp[39m: [32mGET /api/template/items 200 120 - 2.072 ms[39m
+[32m[39m
+23-03-2025 15:05:06:56 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:05:06:56 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:05:06:56 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.912 ms[39m
+[32m[39m
+23-03-2025 15:05:06:56 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:05:06:56 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:05:06:56 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.619 ms[39m
+[32m[39m
+23-03-2025 15:06:54:654 template [32minfo[39m: [32mitem: sdasdsadsa[39m
+23-03-2025 15:06:54:654 template [32minfo[39m: [32mallItems: [[39m
+[32m  "aaa",[39m
+[32m  "asasas",[39m
+[32m  "dadas",[39m
+[32m  "דדדד",[39m
+[32m  "dfgfdg fsdf",[39m
+[32m  "fsdfds "[39m
+[32m][39m
+23-03-2025 15:06:54:654 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 1.126 ms[39m
+[32m[39m
+23-03-2025 15:08:26:826 template [32minfo[39m: [32mitem: fddsfsd[39m
+23-03-2025 15:08:26:826 template [32minfo[39m: [32mallItems: [[39m
+[32m  "aaa",[39m
+[32m  "asasas",[39m
+[32m  "dadas",[39m
+[32m  "דדדד",[39m
+[32m  "dfgfdg fsdf",[39m
+[32m  "fsdfds ",[39m
+[32m  "sdasdsadsa"[39m
+[32m][39m
+23-03-2025 15:08:26:826 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.026 ms[39m
+[32m[39m
+23-03-2025 15:08:29:829 template [32minfo[39m: [32mitem: fsdccsd[39m
+23-03-2025 15:08:29:829 template [32minfo[39m: [32mallItems: [[39m
+[32m  "aaa",[39m
+[32m  "asasas",[39m
+[32m  "dadas",[39m
+[32m  "דדדד",[39m
+[32m  "dfgfdg fsdf",[39m
+[32m  "fsdfds ",[39m
+[32m  "sdasdsadsa",[39m
+[32m  "fddsfsd"[39m
+[32m][39m
+23-03-2025 15:08:29:829 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.296 ms[39m
+[32m[39m
+23-03-2025 15:12:34:1234 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:12:34:1234 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:12:34:1234 template [32mhttp[39m: [32mGET /api/template/items 200 153 - 0.757 ms[39m
+[32m[39m
+23-03-2025 15:12:34:1234 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:12:34:1234 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:12:34:1234 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.462 ms[39m
+[32m[39m
+23-03-2025 15:12:40:1240 template [32minfo[39m: [32mitem: dsadasdf fsfs[39m
+23-03-2025 15:12:40:1240 template [32minfo[39m: [32mallItems: [[39m
+[32m  "aaa",[39m
+[32m  "asasas",[39m
+[32m  "dadas",[39m
+[32m  "דדדד",[39m
+[32m  "dfgfdg fsdf",[39m
+[32m  "fsdfds ",[39m
+[32m  "sdasdsadsa",[39m
+[32m  "fddsfsd",[39m
+[32m  "fsdccsd"[39m
+[32m][39m
+23-03-2025 15:12:40:1240 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 1.873 ms[39m
+[32m[39m
+23-03-2025 15:12:47:1247 template [32minfo[39m: [32mDeleting item: sdasdsadsa[39m
+23-03-2025 15:12:47:1247 template [32minfo[39m: [32mDeleted item: sdasdsadsa[39m
+23-03-2025 15:12:47:1247 template [32mhttp[39m: [32mDELETE /api/template/items/sdasdsadsa 200 55 - 2.947 ms[39m
+[32m[39m
+23-03-2025 15:12:47:1247 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:12:47:1247 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:12:47:1247 template [32mhttp[39m: [32mGET /api/template/items 200 156 - 0.481 ms[39m
+[32m[39m
+23-03-2025 15:12:49:1249 template [32minfo[39m: [32mDeleting item: dsadasdf fsfs[39m
+23-03-2025 15:12:49:1249 template [32minfo[39m: [32mDeleted item: dsadasdf fsfs[39m
+23-03-2025 15:12:49:1249 template [32mhttp[39m: [32mDELETE /api/template/items/dsadasdf%20fsfs 200 55 - 2.177 ms[39m
+[32m[39m
+23-03-2025 15:12:49:1249 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:12:49:1249 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:12:49:1249 template [32mhttp[39m: [32mGET /api/template/items 200 140 - 1.470 ms[39m
+[32m[39m
+23-03-2025 15:12:51:1251 template [32minfo[39m: [32mDeleting item: דדדד[39m
+23-03-2025 15:12:51:1251 template [32minfo[39m: [32mDeleted item: דדדד[39m
+23-03-2025 15:12:51:1251 template [32mhttp[39m: [32mDELETE /api/template/items/%D7%93%D7%93%D7%93%D7%93 200 55 - 3.212 ms[39m
+[32m[39m
+23-03-2025 15:12:51:1251 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:12:51:1251 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:12:51:1251 template [32mhttp[39m: [32mGET /api/template/items 200 129 - 0.838 ms[39m
+[32m[39m
+23-03-2025 15:13:32:1332 template [32minfo[39m: [32mDeleting item: fsdccsd[39m
+23-03-2025 15:13:32:1332 template [32minfo[39m: [32mDeleted item: fsdccsd[39m
+23-03-2025 15:13:32:1332 template [32mhttp[39m: [32mDELETE /api/template/items/fsdccsd 200 55 - 2.607 ms[39m
+[32m[39m
+23-03-2025 15:13:32:1332 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:32:1332 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:32:1332 template [32mhttp[39m: [32mGET /api/template/items 200 119 - 0.500 ms[39m
+[32m[39m
+23-03-2025 15:13:32:1332 template [32minfo[39m: [32mDeleting item: fddsfsd[39m
+23-03-2025 15:13:32:1332 template [32minfo[39m: [32mDeleted item: fddsfsd[39m
+23-03-2025 15:13:32:1332 template [32mhttp[39m: [32mDELETE /api/template/items/fddsfsd 200 55 - 1.953 ms[39m
+[32m[39m
+23-03-2025 15:13:32:1332 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:32:1332 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:32:1332 template [32mhttp[39m: [32mGET /api/template/items 200 109 - 2.566 ms[39m
+[32m[39m
+23-03-2025 15:13:33:1333 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:13:33:1333 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:13:33:1333 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 2.678 ms[39m
+[32m[39m
+23-03-2025 15:13:33:1333 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:33:1333 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:33:1333 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.408 ms[39m
+[32m[39m
+23-03-2025 15:13:33:1333 template [32minfo[39m: [32mDeleting item: dfgfdg fsdf[39m
+23-03-2025 15:13:33:1333 template [32minfo[39m: [32mDeleted item: dfgfdg fsdf[39m
+23-03-2025 15:13:33:1333 template [32mhttp[39m: [32mDELETE /api/template/items/dfgfdg%20fsdf 200 55 - 3.178 ms[39m
+[32m[39m
+23-03-2025 15:13:33:1333 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:33:1333 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:33:1333 template [32mhttp[39m: [32mGET /api/template/items 200 95 - 3.379 ms[39m
+[32m[39m
+23-03-2025 15:13:34:1334 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:13:34:1334 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:13:34:1334 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 1.766 ms[39m
+[32m[39m
+23-03-2025 15:13:34:1334 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:34:1334 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:34:1334 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.812 ms[39m
+[32m[39m
+23-03-2025 15:13:35:1335 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:13:35:1335 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:13:35:1335 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 5.531 ms[39m
+[32m[39m
+23-03-2025 15:13:35:1335 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:35:1335 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:35:1335 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.382 ms[39m
+[32m[39m
+23-03-2025 15:13:36:1336 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:13:36:1336 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:13:36:1336 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 4.361 ms[39m
+[32m[39m
+23-03-2025 15:13:36:1336 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:36:1336 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:36:1336 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.853 ms[39m
+[32m[39m
+23-03-2025 15:13:37:1337 template [32minfo[39m: [32mDeleting item: dadas[39m
+23-03-2025 15:13:37:1337 template [32minfo[39m: [32mDeleted item: dadas[39m
+23-03-2025 15:13:37:1337 template [32mhttp[39m: [32mDELETE /api/template/items/dadas 200 55 - 3.172 ms[39m
+[32m[39m
+23-03-2025 15:13:37:1337 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:37:1337 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:37:1337 template [32mhttp[39m: [32mGET /api/template/items 200 87 - 1.414 ms[39m
+[32m[39m
+23-03-2025 15:13:37:1337 template [32minfo[39m: [32mDeleting item: asasas[39m
+23-03-2025 15:13:37:1337 template [32minfo[39m: [32mDeleted item: asasas[39m
+23-03-2025 15:13:37:1337 template [32mhttp[39m: [32mDELETE /api/template/items/asasas 200 55 - 3.457 ms[39m
+[32m[39m
+23-03-2025 15:13:37:1337 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:37:1337 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:37:1337 template [32mhttp[39m: [32mGET /api/template/items 200 78 - 0.643 ms[39m
+[32m[39m
+23-03-2025 15:13:39:1339 template [32minfo[39m: [32mDeleting item: aaa[39m
+23-03-2025 15:13:39:1339 template [32minfo[39m: [32mDeleted item: aaa[39m
+23-03-2025 15:13:39:1339 template [32mhttp[39m: [32mDELETE /api/template/items/aaa 200 55 - 2.982 ms[39m
+[32m[39m
+23-03-2025 15:13:39:1339 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:39:1339 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:39:1339 template [32mhttp[39m: [32mGET /api/template/items 200 72 - 0.800 ms[39m
+[32m[39m
+23-03-2025 15:13:40:1340 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:13:40:1340 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:13:40:1340 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 4.078 ms[39m
+[32m[39m
+23-03-2025 15:13:40:1340 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:40:1340 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:40:1340 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.803 ms[39m
+[32m[39m
+23-03-2025 15:13:40:1340 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:13:40:1340 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:13:40:1340 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 3.784 ms[39m
+[32m[39m
+23-03-2025 15:13:40:1340 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:40:1340 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:40:1340 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.033 ms[39m
+[32m[39m
+23-03-2025 15:13:47:1347 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:13:47:1347 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:13:47:1347 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 3.140 ms[39m
+[32m[39m
+23-03-2025 15:13:47:1347 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:13:47:1347 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:13:47:1347 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.080 ms[39m
+[32m[39m
+23-03-2025 15:14:00:140 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:14:00:140 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:14:00:140 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 3.210 ms[39m
+[32m[39m
+23-03-2025 15:14:00:140 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:14:00:140 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:14:00:140 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.811 ms[39m
+[32m[39m
+23-03-2025 15:15:18:1518 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:15:33:1533 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:15:38:1538 template [32minfo[39m: [32mDeleting item: fsdfds[39m
+23-03-2025 15:15:38:1538 template [32minfo[39m: [32mDeleted item: fsdfds[39m
+23-03-2025 15:15:38:1538 template [32mhttp[39m: [32mDELETE /api/template/items/fsdfds 200 55 - 5.322 ms[39m
+[32m[39m
+23-03-2025 15:15:38:1538 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 15:15:38:1538 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 15:15:38:1538 template [32mhttp[39m: [32mGET /api/template/items 200 63 - 1.298 ms[39m
+[32m[39m
+23-03-2025 15:16:01:161 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:16:22:1622 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:17:51:1751 template [32minfo[39m: [32mitem: saSa[39m
+23-03-2025 15:17:51:1751 template [32minfo[39m: [32mallItems: [][39m
+23-03-2025 15:17:51:1751 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.031 ms[39m
+[32m[39m
+23-03-2025 15:17:54:1754 template [32minfo[39m: [32mitem: sadcvdfg dasdas[39m
+23-03-2025 15:17:54:1754 template [32minfo[39m: [32mallItems: [[39m
+[32m  "saSa"[39m
+[32m][39m
+23-03-2025 15:17:54:1754 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.707 ms[39m
+[32m[39m
+23-03-2025 15:19:29:1929 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:19:31:1931 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:19:53:1953 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:27:56:2756 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 15:28:13:2813 template [32minfo[39m: [32mitem: dsadas[39m
+23-03-2025 15:28:13:2813 template [32minfo[39m: [32mallItems: [[39m
+[32m  "saSa",[39m
+[32m  "sadcvdfg dasdas"[39m
+[32m][39m
+23-03-2025 15:28:13:2813 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 4.026 ms[39m
+[32m[39m
+23-03-2025 16:48:47:4847 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 16:50:57:5057 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 16:51:14:5114 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 16:51:22:5122 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 16:57:51:5751 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 17:00:55:055 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 17:01:11:111 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 17:01:19:119 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 17:02:20:220 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 17:02:20:220 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 17:02:20:220 template [32mhttp[39m: [32mGET /api/template/items 200 96 - 2.685 ms[39m
+[32m[39m
+23-03-2025 17:02:20:220 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 17:02:20:220 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 17:02:20:220 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.034 ms[39m
+[32m[39m
+23-03-2025 17:02:25:225 template [32minfo[39m: [32mitem: dasdsafv[39m
+23-03-2025 17:02:25:225 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 17:02:25:225 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 17:02:25:225 template [32minfo[39m: [32mallItems: saSa,sadcvdfg dasdas,dsadas[39m
+23-03-2025 17:02:25:225 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 1.738 ms[39m
+[32m[39m
+23-03-2025 17:02:29:229 template [32minfo[39m: [32mDeleting item: sadcvdfg dasdas[39m
+23-03-2025 17:02:29:229 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 17:02:29:229 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 17:02:29:229 template [32minfo[39m: [32mfilteredItems: saSa,dsadas,dasdsafv[39m
+23-03-2025 17:02:29:229 template [32mhttp[39m: [32mDELETE /api/template/items/sadcvdfg%20dasdas 200 55 - 4.431 ms[39m
+[32m[39m
+23-03-2025 17:02:29:229 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 17:02:29:229 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 17:02:29:229 template [32mhttp[39m: [32mGET /api/template/items 200 89 - 0.373 ms[39m
+[32m[39m
+23-03-2025 17:02:31:231 template [32minfo[39m: [32mDeleting item: dasdsafv[39m
+23-03-2025 17:02:31:231 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 17:02:31:231 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 17:02:31:231 template [32minfo[39m: [32mfilteredItems: saSa,dsadas[39m
+23-03-2025 17:02:31:231 template [32mhttp[39m: [32mDELETE /api/template/items/dasdsafv 200 55 - 3.649 ms[39m
+[32m[39m
+23-03-2025 17:02:31:231 template [32minfo[39m: [32mGetting all items[39m
+23-03-2025 17:02:31:231 template [32minfo[39m: [32mGot all items[39m
+23-03-2025 17:02:31:231 template [32mhttp[39m: [32mGET /api/template/items 200 78 - 0.891 ms[39m
+[32m[39m
+23-03-2025 17:04:16:416 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+23-03-2025 17:04:44:444 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+25-03-2025 08:52:17:5217 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+25-03-2025 08:52:40:5240 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+25-03-2025 09:00:05:05 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:05:05 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:05:05 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.867 ms[39m
+[32m[39m
+25-03-2025 09:00:05:05 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:05:05 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:05:05 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.727 ms[39m
+[32m[39m
+25-03-2025 09:00:07:07 template [32minfo[39m: [32mitem: dsadas[39m
+25-03-2025 09:00:07:07 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:07:07 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:07:07 template [32minfo[39m: [32mallItems: saSa,dsadas[39m
+25-03-2025 09:00:07:07 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 2.093 ms[39m
+[32m[39m
+25-03-2025 09:00:12:012 template [32minfo[39m: [32mDeleting item: saSa[39m
+25-03-2025 09:00:12:012 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:12:012 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:12:012 template [32minfo[39m: [32mfilteredItems: dsadas,dsadas[39m
+25-03-2025 09:00:12:012 template [32mhttp[39m: [32mDELETE /api/template/items/saSa 200 55 - 6.215 ms[39m
+[32m[39m
+25-03-2025 09:00:12:012 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:12:012 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:12:012 template [32mhttp[39m: [32mGET /api/template/items 200 80 - 0.496 ms[39m
+[32m[39m
+25-03-2025 09:00:16:016 template [32minfo[39m: [32mitem: ddddd[39m
+25-03-2025 09:00:16:016 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:16:016 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:16:016 template [32minfo[39m: [32mallItems: dsadas,dsadas[39m
+25-03-2025 09:00:16:016 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 2.503 ms[39m
+[32m[39m
+25-03-2025 09:00:22:022 template [32minfo[39m: [32mitem: adasdasdasdas[39m
+25-03-2025 09:00:22:022 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:22:022 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:22:022 template [32minfo[39m: [32mallItems: dsadas,dsadas,ddddd[39m
+25-03-2025 09:00:22:022 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.693 ms[39m
+[32m[39m
+25-03-2025 09:00:23:023 template [32minfo[39m: [32mDeleting item: ddddd[39m
+25-03-2025 09:00:23:023 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:23:023 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:23:023 template [32minfo[39m: [32mfilteredItems: dsadas,dsadas,adasdasdasdas[39m
+25-03-2025 09:00:23:023 template [32mhttp[39m: [32mDELETE /api/template/items/ddddd 200 55 - 0.847 ms[39m
+[32m[39m
+25-03-2025 09:00:23:023 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:00:23:023 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:00:23:023 template [32mhttp[39m: [32mGET /api/template/items 200 96 - 1.331 ms[39m
+[32m[39m
+25-03-2025 09:18:44:1844 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:18:44:1844 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:18:44:1844 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.921 ms[39m
+[32m[39m
+25-03-2025 09:18:44:1844 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:18:44:1844 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:18:44:1844 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.511 ms[39m
+[32m[39m
+25-03-2025 09:18:46:1846 template [32minfo[39m: [32mitem: dfdf[39m
+25-03-2025 09:18:46:1846 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:18:46:1846 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:18:46:1846 template [32minfo[39m: [32mallItems: dsadas,dsadas,adasdasdasdas[39m
+25-03-2025 09:18:46:1846 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 2.587 ms[39m
+[32m[39m
+25-03-2025 09:18:46:1846 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:18:46:1846 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:18:46:1846 template [32mhttp[39m: [32mGET /api/template/items 200 103 - 2.948 ms[39m
+[32m[39m
+25-03-2025 09:18:49:1849 template [32minfo[39m: [32mitem: vfdv[39m
+25-03-2025 09:18:49:1849 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:18:49:1849 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:18:49:1849 template [32minfo[39m: [32mallItems: dsadas,dsadas,adasdasdasdas,dfdf[39m
+25-03-2025 09:18:49:1849 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.197 ms[39m
+[32m[39m
+25-03-2025 09:18:49:1849 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:18:49:1849 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:18:49:1849 template [32mhttp[39m: [32mGET /api/template/items 200 110 - 0.783 ms[39m
+[32m[39m
+25-03-2025 09:24:38:2438 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:24:38:2438 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:24:38:2438 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.633 ms[39m
+[32m[39m
+25-03-2025 09:24:38:2438 template [32minfo[39m: [32mGetting all items[39m
+25-03-2025 09:24:38:2438 template [32minfo[39m: [32mGot all items[39m
+25-03-2025 09:24:38:2438 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.900 ms[39m
+[32m[39m
+25-03-2025 15:07:12:712 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+25-03-2025 15:07:26:726 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+02-04-2025 15:10:29:1029 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+02-04-2025 15:11:00:110 template [32minfo[39m: [32mGetting all items[39m
+02-04-2025 15:11:00:110 template [32minfo[39m: [32mGot all items[39m
+02-04-2025 15:11:00:110 template [32mhttp[39m: [32mGET /api/template/items 200 110 - 2.803 ms[39m
+[32m[39m
+02-04-2025 15:11:00:110 template [32minfo[39m: [32mGetting all items[39m
+02-04-2025 15:11:00:110 template [32minfo[39m: [32mGot all items[39m
+02-04-2025 15:11:00:110 template [32mhttp[39m: [32mGET /api/template/items 304 - - 0.885 ms[39m
+[32m[39m
+07-05-2025 11:31:17:3117 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+07-05-2025 11:31:24:3124 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:24:3124 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:24:3124 template [32mhttp[39m: [32mGET /api/template/items 304 - - 8.053 ms[39m
+[32m[39m
+07-05-2025 11:31:24:3124 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:24:3124 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:24:3124 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.929 ms[39m
+[32m[39m
+07-05-2025 11:31:33:3133 template [32minfo[39m: [32mitem: fvf[39m
+07-05-2025 11:31:33:3133 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:33:3133 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:33:3133 template [32minfo[39m: [32mallItems: dsadas,dsadas,adasdasdasdas,dfdf,vfdv[39m
+07-05-2025 11:31:33:3133 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.110 ms[39m
+[32m[39m
+07-05-2025 11:31:33:3133 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:33:3133 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:33:3133 template [32mhttp[39m: [32mGET /api/template/items 200 116 - 1.439 ms[39m
+[32m[39m
+07-05-2025 11:31:36:3136 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:36:3136 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:36:3136 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.949 ms[39m
+[32m[39m
+07-05-2025 11:31:36:3136 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:36:3136 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:36:3136 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.053 ms[39m
+[32m[39m
+07-05-2025 11:31:38:3138 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:38:3138 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:38:3138 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.086 ms[39m
+[32m[39m
+07-05-2025 11:31:38:3138 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:38:3138 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:38:3138 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.947 ms[39m
+[32m[39m
+07-05-2025 11:31:41:3141 template [32minfo[39m: [32mitem: 111[39m
+07-05-2025 11:31:41:3141 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:41:3141 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:41:3141 template [32minfo[39m: [32mallItems: dsadas,dsadas,adasdasdasdas,dfdf,vfdv,fvf[39m
+07-05-2025 11:31:41:3141 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 6.160 ms[39m
+[32m[39m
+07-05-2025 11:31:41:3141 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:31:41:3141 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:31:41:3141 template [32mhttp[39m: [32mGET /api/template/items 200 122 - 1.710 ms[39m
+[32m[39m
+07-05-2025 11:34:19:3419 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:34:19:3419 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:34:19:3419 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.591 ms[39m
+[32m[39m
+07-05-2025 11:34:19:3419 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:34:19:3419 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:34:19:3419 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.626 ms[39m
+[32m[39m
+07-05-2025 11:36:50:3650 template [32minfo[39m: [32mitem: 65[39m
+07-05-2025 11:36:50:3650 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:36:50:3650 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:36:50:3650 template [32minfo[39m: [32mallItems: dsadas,dsadas,adasdasdasdas,dfdf,vfdv,fvf,111[39m
+07-05-2025 11:36:50:3650 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 3.569 ms[39m
+[32m[39m
+07-05-2025 11:36:50:3650 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:36:50:3650 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:36:50:3650 template [32mhttp[39m: [32mGET /api/template/items 200 127 - 3.940 ms[39m
+[32m[39m
+07-05-2025 11:37:13:3713 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:37:13:3713 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:37:13:3713 template [32mhttp[39m: [32mGET /api/template/items 200 96 - 3.385 ms[39m
+[32m[39m
+07-05-2025 11:37:13:3713 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:37:13:3713 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:37:13:3713 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.163 ms[39m
+[32m[39m
+07-05-2025 11:44:57:4457 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+07-05-2025 11:45:23:4523 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:45:23:4523 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:45:23:4523 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5336.824 ms[39m
+[32m[39m
+07-05-2025 11:45:27:4527 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 11:45:27:4527 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 11:45:27:4527 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3979.525 ms[39m
+[32m[39m
+07-05-2025 14:32:16:3216 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:32:16:3216 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:32:16:3216 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.554 ms[39m
+[32m[39m
+07-05-2025 14:32:16:3216 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:32:16:3216 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:32:16:3216 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.692 ms[39m
+[32m[39m
+07-05-2025 14:33:58:3358 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:33:58:3358 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:33:58:3358 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.743 ms[39m
+[32m[39m
+07-05-2025 14:34:26:3426 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:34:26:3426 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:34:26:3426 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.095 ms[39m
+[32m[39m
+07-05-2025 14:34:54:3454 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:34:54:3454 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:34:54:3454 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.143 ms[39m
+[32m[39m
+07-05-2025 14:34:54:3454 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:34:54:3454 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:34:54:3454 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.879 ms[39m
+[32m[39m
+07-05-2025 14:34:54:3454 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:34:54:3454 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:34:54:3454 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.857 ms[39m
+[32m[39m
+07-05-2025 14:35:00:350 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:00:350 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:00:350 template [32mhttp[39m: [32mGET /api/template/items 304 - - 19.381 ms[39m
+[32m[39m
+07-05-2025 14:35:00:350 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:00:350 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:00:350 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.104 ms[39m
+[32m[39m
+07-05-2025 14:35:00:350 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:00:350 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:00:350 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.644 ms[39m
+[32m[39m
+07-05-2025 14:35:00:350 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:00:350 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:00:350 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.715 ms[39m
+[32m[39m
+07-05-2025 14:35:04:354 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:04:354 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:04:354 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.179 ms[39m
+[32m[39m
+07-05-2025 14:35:04:354 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:04:354 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:04:354 template [32mhttp[39m: [32mGET /api/template/items 304 - - 8.340 ms[39m
+[32m[39m
+07-05-2025 14:35:05:355 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:05:355 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:05:355 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.207 ms[39m
+[32m[39m
+07-05-2025 14:35:05:355 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:05:355 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:05:355 template [32mhttp[39m: [32mGET /api/template/items 304 - - 7.896 ms[39m
+[32m[39m
+07-05-2025 14:35:27:3527 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:27:3527 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:27:3527 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.069 ms[39m
+[32m[39m
+07-05-2025 14:35:30:3530 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:30:3530 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:30:3530 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.246 ms[39m
+[32m[39m
+07-05-2025 14:35:30:3530 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:30:3530 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:30:3530 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.064 ms[39m
+[32m[39m
+07-05-2025 14:35:34:3534 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:34:3534 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:34:3534 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.610 ms[39m
+[32m[39m
+07-05-2025 14:35:34:3534 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:34:3534 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:34:3534 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.917 ms[39m
+[32m[39m
+07-05-2025 14:35:40:3540 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:40:3540 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:40:3540 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.821 ms[39m
+[32m[39m
+07-05-2025 14:35:40:3540 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:40:3540 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:40:3540 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.451 ms[39m
+[32m[39m
+07-05-2025 14:35:51:3551 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:51:3551 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:51:3551 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.721 ms[39m
+[32m[39m
+07-05-2025 14:35:54:3554 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:54:3554 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:54:3554 template [32mhttp[39m: [32mGET /api/template/items 304 - - 9.731 ms[39m
+[32m[39m
+07-05-2025 14:35:54:3554 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:54:3554 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:54:3554 template [32mhttp[39m: [32mGET /api/template/items 304 - - 9.262 ms[39m
+[32m[39m
+07-05-2025 14:35:55:3555 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:55:3555 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:55:3555 template [32mhttp[39m: [32mGET /api/template/items 304 - - 9.215 ms[39m
+[32m[39m
+07-05-2025 14:35:55:3555 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:55:3555 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:55:3555 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.956 ms[39m
+[32m[39m
+07-05-2025 14:35:56:3556 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:56:3556 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:56:3556 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.590 ms[39m
+[32m[39m
+07-05-2025 14:35:56:3556 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:56:3556 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:56:3556 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.980 ms[39m
+[32m[39m
+07-05-2025 14:35:57:3557 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:57:3557 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:57:3557 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.187 ms[39m
+[32m[39m
+07-05-2025 14:35:57:3557 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:57:3557 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:57:3557 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.247 ms[39m
+[32m[39m
+07-05-2025 14:35:58:3558 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:58:3558 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:58:3558 template [32mhttp[39m: [32mGET /api/template/items 304 - - 9.258 ms[39m
+[32m[39m
+07-05-2025 14:35:58:3558 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:58:3558 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:58:3558 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.392 ms[39m
+[32m[39m
+07-05-2025 14:35:59:3559 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:59:3559 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:59:3559 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.042 ms[39m
+[32m[39m
+07-05-2025 14:35:59:3559 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:35:59:3559 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:35:59:3559 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.184 ms[39m
+[32m[39m
+07-05-2025 14:36:14:3614 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:36:14:3614 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:36:14:3614 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.711 ms[39m
+[32m[39m
+07-05-2025 14:36:30:3630 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:36:30:3630 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:36:30:3630 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.270 ms[39m
+[32m[39m
+07-05-2025 14:36:39:3639 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:36:39:3639 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:36:39:3639 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.681 ms[39m
+[32m[39m
+07-05-2025 14:36:39:3639 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:36:39:3639 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:36:39:3639 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.781 ms[39m
+[32m[39m
+07-05-2025 14:36:42:3642 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:36:42:3642 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:36:42:3642 template [32mhttp[39m: [32mGET /api/template/items 304 - - 7.323 ms[39m
+[32m[39m
+07-05-2025 14:36:42:3642 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:36:42:3642 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:36:42:3642 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.232 ms[39m
+[32m[39m
+07-05-2025 14:37:07:377 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:37:07:377 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:37:07:377 template [32mhttp[39m: [32mGET /api/template/items 304 - - 10.106 ms[39m
+[32m[39m
+07-05-2025 14:37:07:377 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:37:07:377 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:37:07:377 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.860 ms[39m
+[32m[39m
+07-05-2025 14:37:10:3710 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:37:10:3710 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:37:10:3710 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.864 ms[39m
+[32m[39m
+07-05-2025 14:37:10:3710 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:37:10:3710 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:37:10:3710 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.122 ms[39m
+[32m[39m
+07-05-2025 14:37:11:3711 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:37:11:3711 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:37:11:3711 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.524 ms[39m
+[32m[39m
+07-05-2025 14:37:11:3711 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:37:11:3711 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:37:11:3711 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.697 ms[39m
+[32m[39m
+07-05-2025 14:37:12:3712 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:37:12:3712 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:37:12:3712 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.750 ms[39m
+[32m[39m
+07-05-2025 14:37:12:3712 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:37:12:3712 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:37:12:3712 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.165 ms[39m
+[32m[39m
+07-05-2025 14:38:07:387 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:07:387 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:07:387 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.988 ms[39m
+[32m[39m
+07-05-2025 14:38:07:387 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:07:387 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:07:387 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.561 ms[39m
+[32m[39m
+07-05-2025 14:38:07:387 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:07:387 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:07:387 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.443 ms[39m
+[32m[39m
+07-05-2025 14:38:07:387 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:07:387 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:07:387 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.382 ms[39m
+[32m[39m
+07-05-2025 14:38:14:3814 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:14:3814 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:14:3814 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.573 ms[39m
+[32m[39m
+07-05-2025 14:38:17:3817 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:17:3817 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:17:3817 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.129 ms[39m
+[32m[39m
+07-05-2025 14:38:17:3817 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:17:3817 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:17:3817 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.077 ms[39m
+[32m[39m
+07-05-2025 14:38:17:3817 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:17:3817 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:17:3817 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.882 ms[39m
+[32m[39m
+07-05-2025 14:38:17:3817 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:17:3817 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:17:3817 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.419 ms[39m
+[32m[39m
+07-05-2025 14:38:18:3818 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:18:3818 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:18:3818 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.802 ms[39m
+[32m[39m
+07-05-2025 14:38:18:3818 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:18:3818 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:18:3818 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.184 ms[39m
+[32m[39m
+07-05-2025 14:38:18:3818 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:18:3818 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:18:3818 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.713 ms[39m
+[32m[39m
+07-05-2025 14:38:18:3818 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:18:3818 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:18:3818 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.280 ms[39m
+[32m[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:29:3829 template [32mhttp[39m: [32mGET /api/template/items 304 - - 11.933 ms[39m
+[32m[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:29:3829 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.340 ms[39m
+[32m[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:29:3829 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.854 ms[39m
+[32m[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:29:3829 template [32mhttp[39m: [32mGET /api/template/items 304 - - 2.158 ms[39m
+[32m[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:29:3829 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.405 ms[39m
+[32m[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:29:3829 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.042 ms[39m
+[32m[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:29:3829 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.454 ms[39m
+[32m[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:29:3829 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:29:3829 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.258 ms[39m
+[32m[39m
+07-05-2025 14:38:50:3850 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:50:3850 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:50:3850 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.858 ms[39m
+[32m[39m
+07-05-2025 14:38:50:3850 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:50:3850 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:50:3850 template [32mhttp[39m: [32mGET /api/template/items 304 - - 11.206 ms[39m
+[32m[39m
+07-05-2025 14:38:50:3850 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:50:3850 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:50:3850 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.552 ms[39m
+[32m[39m
+07-05-2025 14:38:50:3850 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:50:3850 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:50:3850 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.304 ms[39m
+[32m[39m
+07-05-2025 14:38:53:3853 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:53:3853 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:53:3853 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.850 ms[39m
+[32m[39m
+07-05-2025 14:38:53:3853 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:53:3853 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:53:3853 template [32mhttp[39m: [32mGET /api/template/items 304 - - 8.270 ms[39m
+[32m[39m
+07-05-2025 14:38:58:3858 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:58:3858 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:58:3858 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.753 ms[39m
+[32m[39m
+07-05-2025 14:38:58:3858 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:38:58:3858 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:38:58:3858 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.555 ms[39m
+[32m[39m
+07-05-2025 14:39:00:390 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:39:00:390 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:39:00:390 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.827 ms[39m
+[32m[39m
+07-05-2025 14:39:00:390 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:39:00:390 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:39:00:390 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.851 ms[39m
+[32m[39m
+07-05-2025 14:39:02:392 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:39:02:392 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:39:02:392 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.292 ms[39m
+[32m[39m
+07-05-2025 14:39:02:392 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:39:02:392 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:39:02:392 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.888 ms[39m
+[32m[39m
+07-05-2025 14:39:10:3910 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:39:10:3910 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:39:10:3910 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.582 ms[39m
+[32m[39m
+07-05-2025 14:39:10:3910 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:39:10:3910 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:39:10:3910 template [32mhttp[39m: [32mGET /api/template/items 304 - - 1.735 ms[39m
+[32m[39m
+07-05-2025 14:39:16:3916 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:39:16:3916 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:39:16:3916 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.749 ms[39m
+[32m[39m
+07-05-2025 14:39:16:3916 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:39:16:3916 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:39:16:3916 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.702 ms[39m
+[32m[39m
+07-05-2025 14:41:49:4149 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:41:49:4149 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:41:49:4149 template [32mhttp[39m: [32mGET /api/template/items 304 - - 7.999 ms[39m
+[32m[39m
+07-05-2025 14:41:49:4149 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:41:49:4149 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:41:49:4149 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.233 ms[39m
+[32m[39m
+07-05-2025 14:41:50:4150 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:41:50:4150 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:41:50:4150 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.567 ms[39m
+[32m[39m
+07-05-2025 14:41:50:4150 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:41:50:4150 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:41:50:4150 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.701 ms[39m
+[32m[39m
+07-05-2025 14:41:53:4153 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:41:53:4153 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:41:53:4153 template [32mhttp[39m: [32mGET /api/template/items 304 - - 6.029 ms[39m
+[32m[39m
+07-05-2025 14:41:53:4153 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:41:53:4153 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:41:53:4153 template [32mhttp[39m: [32mGET /api/template/items 304 - - 4.676 ms[39m
+[32m[39m
+07-05-2025 14:53:29:5329 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+07-05-2025 14:57:56:5756 template [32minfo[39m: [32mitem: 12[39m
+07-05-2025 14:57:56:5756 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:57:56:5756 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:58:13:5813 template [32minfo[39m: [32mallItems: dsadas,dsadas,adasdasdasdas[39m
+07-05-2025 14:59:24:5924 template [32mhttp[39m: [32mPOST /api/template/items 200 56 - 276388.255 ms[39m
+[32m[39m
+07-05-2025 14:59:24:5924 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 14:59:24:5924 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 14:59:24:5924 template [32mhttp[39m: [32mGET /api/template/items 200 101 - 3.650 ms[39m
+[32m[39m
+07-05-2025 15:05:22:522 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 15:05:22:522 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 15:05:22:522 template [32mhttp[39m: [32mGET /api/template/items 304 - - 7.496 ms[39m
+[32m[39m
+07-05-2025 15:05:37:537 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 15:05:37:537 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 15:05:37:537 template [32mhttp[39m: [32mGET /api/template/items 304 - - 5.778 ms[39m
+[32m[39m
+07-05-2025 15:05:37:537 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 15:05:37:537 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 15:05:37:537 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.296 ms[39m
+[32m[39m
+07-05-2025 15:07:00:70 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 15:07:00:70 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 15:07:00:70 template [32mhttp[39m: [32mGET /api/template/items 304 - - 9.821 ms[39m
+[32m[39m
+07-05-2025 15:07:00:70 template [32minfo[39m: [32mGetting all items[39m
+07-05-2025 15:07:00:70 template [32minfo[39m: [32mGot all items[39m
+07-05-2025 15:07:00:70 template [32mhttp[39m: [32mGET /api/template/items 304 - - 3.928 ms[39m
+[32m[39m
+07-05-2025 15:07:06:76 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+07-05-2025 15:09:06:96 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+07-05-2025 15:12:57:1257 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m
+07-05-2025 15:13:10:1310 template [37mdebug[39m: [37mApp listening on the http://localhost:3003[39m

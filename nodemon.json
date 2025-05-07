@@ -1,0 +1,14 @@
+{
+    "env": {
+      "NODE_ENV": "development",
+      "SERVICE_NAME": "template",
+      "WHITE_LIST_DOMAIN": "http://localhost:3000",
+      "DB_HOST": "localhost",
+      "DB_NAME": "template",
+      "DB_USER": "root",
+      "DB_PASSWORD": "12345678",
+      "DB_PORT": "3306",
+      "DB_DRIVER": "mysql",
+      "PORT": "3003"
+    }
+  }

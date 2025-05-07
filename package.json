@@ -1,0 +1,54 @@
+{
+   "name": "service-template",
+   "version": "1.0.0",
+   "description": "Template for a new Castor service.",
+   "main": "index.js",
+   "scripts": {
+      "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/server.ts",
+      "build": "tsc",
+      "start": "node ./dist-server/server.js",
+      "test": "jest",
+      "test:watch": "jest --watch",
+      "test:coverage": "jest --coverage"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+ssh://git@bitbucket.org/liozassa/service-template.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "homepage": "https://bitbucket.org/liozassa/service-template#readme",
+   "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "morgan": "^1.10.0",
+      "mysql2": "^2.3.2",
+      "node-fetch": "^2.6.5",
+      "rabbitmq": "0.0.2",
+      "reflect-metadata": "^0.1.10",
+      "sequelize": "^6.7.0",
+      "sudo": "^1.0.3",
+      "uuid": "^8.3.2",
+      "winston": "^3.3.3"
+   },
+   "devDependencies": {
+      "@types/cors": "^2.8.12",
+      "@types/express": "^4.17.13",
+      "@types/jest": "29.5.14",
+      "@types/morgan": "^1.9.3",
+      "@types/node": "^16.11.1",
+      "@types/node-fetch": "^2.5.12",
+      "@types/sequelize": "^4.28.10",
+      "@types/supertest": "6.0.2",
+      "@types/uuid": "^8.3.1",
+      "@types/validator": "^13.6.3",
+      "@types/winston": "^2.4.4",
+      "jest": "29.7.0",
+      "nodemon": "^2.0.13",
+      "supertest": "7.1.0",
+      "ts-jest": "29.2.6",
+      "ts-node": "^10.3.0",
+      "typescript": "^4.4.4"
+   }
+}
